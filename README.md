@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldhirendersingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldhirendersingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/buildwithrahul" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldhirenders?logo=twitter&style=for-the-badge" alt="rahuldhirenders" /></a> </p>
+<p align="left"> <a href="https://twitter.com/buildwithrahul" target="_blank"><img src="https://img.shields.io/twitter/follow/buildwithrahul?logo=twitter&style=for-the-badge" alt="buildwithrahul" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms with Java**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahuldhirenders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldhirenders" height="30" width="40" /></a>
+<a href="https://twitter.com/buildwithrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buildwithrahul" height="30" width="40" /></a>
 <a href="https://instagram.com/rahuldhirendersingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahuldhirendersingh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCu_9LdK9rm5yfEIiNPT4q_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahul singh" height="30" width="40" /></a>
 </p>
